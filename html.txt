@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Responsive CV</title>
+        <link rel="stylesheet"  href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="left_side">
+                <div class="ProfileText">
+                    <div class="imgBx">
+                        <img src="photograph 1.png">
+                    </div>
+                    <h2>RAHUL KUMAR<br><span>Web Developer</span></h2>
+                </div>
+                <div class="ContactInfo">
+                    <h3 class="title">Contact Info</h3>
+                    <ul>
+                        <li>
+                            <span class="icon"></span>
+                            <span class="text">+91 6207708728</span>
+                        </li>
+                        <li>
+                            <span class="icon"></span>
+                            <span class="text">rahulis25hh@gmail.com</span>
+                        </li>
+                        <li>
+                            <span class="icon"></span>
+                            <span class="text">www.linkedin.com</span>
+                        </li>
+                        <li>
+                            <span class="icon"></span>
+                            <span class="text">Patna , Bihar ,India</span>
+
+                        </li>
+                    </ul>
+                </div>
+                <div class="ContactInfo education">
+                    <h3 class="title">Education</h3>
+                    <ul>
+                        <li>
+                            <h5>2016-2020</h5>
+                            <h4>Bachelor Degree in Information technology</h4>
+                            <h4>University institute of technology,Burdwan</h4>
+                        </li>
+                        <li>
+                            <h5>2012-2014</h5>
+                            <h4>Intermediat</h4>
+                            <h4>Bal Vidya Niketan</h4>
+                        </li>
+                        <li>
+                            <h5>2002-2012</h5>
+                            <h4>Matricculation</h4>
+                            <h4>Bal Vidya Niketan</h4>
+                        </li>
+                    </ul>
+                </div>
+                <div class="ContactInfo language">
+                    <h3 class="title">Language</h3>
+                    <ul>
+                        <li>
+                            <span class="text">English</span>
+                        </li>
+                        <li>
+                            <span class="text">Hindi</span>
+                        </li>
+                    </ul>    
+            </div>
+            </div>
+            <div class="Right_side">
+                <div class="about">
+                    <h2 class="title2"> About me</h2>
+                    <p>Hello ! I'm Rahul kumar . I am passionate about coding.A programming enthusiast who spends most of the time coding ,collecting ideas and making websites and learning new skills.I am a skilled front -end Developer.</p>
+                </div>
+                <div class="about">
+                    <h2 class="title2">Project</h2>
+                    <h3 class="title2">Online Library Management System</h3>
+                    <p>Developed a RDBMS concept based application for maintains all informations about Books present in library , members of library to whom books are issued , Download Requried Books etc.Software used in this project PHP server- XAMPP ,HTML ,CSS, MYSQL etc.The all record stored in the database.</p>
+                    <div class="about skills">
+                        <h2 class="title2">Professional Skills</h2>
+                        <div class="box">
+                            <h4>HTML</h4>
+                            <div class="percent">
+                                <div style="width: 90%;"></div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <h4>CSS</h4>
+                            <div class="percent">
+                                <div style="width: 80%;"></div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <h4>Javascript</h4>
+                            <div class="percent">
+                                <div style="width: 65%;"></div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <h4>C</h4>
+                            <div class="percent">
+                                <div style="width: 100%;"></div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <h4>JAVA</h4>
+                            <div class="percent">
+                                <div style="width: 85%;"></div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <h4>Data Structure</h4>
+                            <div class="percent">
+                                <div style="width: 75%;"></div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <h4>DBMS</h4>
+                            <div class="percent">
+                                <div style="width: 100%;"></div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <h4>SQL</h4>
+                            <div class="percent">
+                                <div style="width: 88%;"></div>
+                            </div>
+                        </div>
+                        
+                        <div class="box">
+                            <h4>Computer Networking</h4>
+                            <div class="percent">
+                                <div style="width: 90%;"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                     <div class="about interest">
+                         <h2 class="title2">Interest</h2>
+                         <ul>
+                             <li>Playing &Watching Cricket</li>
+                             <li>Cooking</li>
+
+                         </ul>
+                     </div>
+                </div>
+                
+            </div>
+
+    </body>
+</html>
